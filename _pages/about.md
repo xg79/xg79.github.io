@@ -12,4 +12,4 @@ I'm a master's degree candidate in robotics and autonomous systems from the Univ
 
 You can find my CV here: [Xiangyu's Curriculum Vitae](../assets/CV7.pdf).
 
-[Email](mailto:xg79@sussex.ac.uk) / [Wechat](../image/wechat.jpg)
+[Email](mailto:xg79@sussex.ac.uk) / [Wechat](../images/wechat.jpg)
