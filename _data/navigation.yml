@@ -3,13 +3,17 @@ main:
   - title: "Publications"
     url: /publications/
 
+    - title: "Skills"
+    url: /posts/   
+
   - title: "Research experience"
     url: /talks/    
 
   - title: "Project experience"
     url: /teaching/    
     
-
+     - title: "Awards"
+    url: /portfolio/
     
   - title: "CV"
     url: /cv/
