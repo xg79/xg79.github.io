@@ -3,16 +3,16 @@ main:
   - title: "Publications"
     url: /publications/
 
-    - title: "Skills"
-    url: /posts/   
+  - title: "Skills"
+    url: /markdown/   
 
-  - title: "Research experience"
+  - title: "Research Experience"
     url: /talks/    
 
-  - title: "Project experience"
+  - title: "Project Experience"
     url: /teaching/    
     
-     - title: "Awards"
+  - title: "Awards"
     url: /portfolio/
     
   - title: "CV"
