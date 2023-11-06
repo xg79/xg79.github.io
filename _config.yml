@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiangyu Guo"
   avatar           : "Xiangyu.png"
-  bio              : "Crafting a future where robots waltz with dreams."
+  bio              : #"Your biography for the left-hand sidebar"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xg79"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
