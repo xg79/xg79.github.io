@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Review of Development and Application of Bidirectional LLC Converter."
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Researched the topology structures, control strategies, and application scenarios of bidirectional LLC converters available in the market and literature.'
+date: 2023-10-01
+venue: 'International Conference on Energy, Power and Electrical Technology'
+paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://doi.org/10.1117/12.3004351)'
+citation: 'Xiangyu Guo, Ziyue Zhu, Wenqiang Liu. (2023). &quot;Review of Development and Application of Bidirectional LLC Converter.&quot; <i>International Conference on Energy, Power and Electrical Technology</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
+Researched the topology structures, control strategies, and application scenarios of bidirectional LLC converters available in the market and literature.
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Xiangyu Guo, Ziyue Zhu, Wenqiang Liu. (2023). "Review of Development and Application of Bidirectional LLC Converter." <i>International Conference on Energy, Power and Electrical Technology</i>. 1(1).
